@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1462440280 source:c:\users\yachi\documents\cplusdoc\postorder\btree.cpp
+	"Stack.cpp"
+
+1462440064 source:c:\users\yachi\documents\cplusdoc\postorder\stack.cpp
+	<iostream>
+
+1462439617 source:c:\users\yachi\documents\cplusdoc\postorder\main.cpp
+	<iostream>
+	"BTree.cpp"
+
+1462440064 c:\users\yachi\documents\cplusdoc\postorder\stack.cpp
+	<iostream>
+
+1462440064 c:\users\yachi\documents\cplusdoc\postorder\btree.cpp
+	"Stack.cpp"
+
